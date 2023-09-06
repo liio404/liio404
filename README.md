@@ -2,7 +2,7 @@
 
 <!--
 ### Hi there 👋
-**COLLIDORLionel/COLLIDORLionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**liio404/liio404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **PHP, Laravel, Vue.js, Node.js and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://collidorlionel.github.io/](https://collidorlionel.github.io/)
+- 👨‍💻 All of my projects are available at [https://liio404.github.io/](https://liio404.github.io/)
 
-- 📄 Know about my experiences [https://collidorlionel.github.io/](https://collidorlionel.github.io/)
+- 📄 Know about my experiences [https://liio404.github.io/](https://liio404.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
